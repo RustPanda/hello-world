@@ -1,2 +1,4 @@
 Cargo.lock
 my_db
+.vscode/
+target/
